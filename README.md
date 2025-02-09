@@ -18,6 +18,11 @@
 3. The goal is to create a tile with the number 2048.
 4. The game ends when there are no more possible moves.
 
+## Preview
+
+![bluewhale1202 github io_2028-game_](https://github.com/user-attachments/assets/ecf9a8d0-6fa5-4d9a-98a2-fbf2657a038b)
+
+
 ## Installation
 
 ### Play Online
